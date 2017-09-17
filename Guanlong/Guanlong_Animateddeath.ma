@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
-//Name: Guanlong_Animated.ma
-//Last modified: Sun, Sep 17, 2017 09:16:37 AM
+//Name: Guanlong_Animateddeath.ma
+//Last modified: Sun, Sep 17, 2017 09:16:53 AM
 //Codeset: 1252
 requires maya "2017";
 requires "stereoCamera" "10.0";
@@ -78075,4 +78075,4 @@ connectAttr "Guanlong5Riggedscaleable:groupId681.msg" ":defaultLastHiddenSet.gn"
 connectAttr "Tail_0Shape4.iog.og[3]" ":defaultLastHiddenSet.dsm" -na;
 connectAttr "Guanlong5Riggedscaleable:ikSCsolver.msg" ":ikSystem.sol" -na;
 connectAttr "Guanlong5Riggedscaleable:ikRPsolver.msg" ":ikSystem.sol" -na;
-// End of Guanlong_Animated.ma
+// End of Guanlong_Animateddeath.ma
